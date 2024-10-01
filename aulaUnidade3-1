@@ -1,0 +1,7 @@
+ArrayList: 
+ - usado na maioria das vezes
+ - acesso mais rápido
+  - tem métodos próprios
+LinkedList:
+
+tudo que for objeto de cálculo, o usuário não pode entrar com o valor
